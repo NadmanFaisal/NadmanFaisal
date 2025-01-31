@@ -7,8 +7,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **Software Engineering & Management** student with a strong foundation in **object-oriented programming, software architecture, data management, and agile methodologies**.
-- 📌 **Teaching Assistant** at University of Gothenburg, guiding students in **agile development, Git, and software engineering principles**.
+- 🎓 **2nd Year Software Engineering & Management** student.
+- 📌 **Teaching Assistant** at Chalmers & University of Gothenburg, guiding students in **agile development, Git, and software engineering principles**.
 - 🛠 Passionate about **problem-solving, system design, and full-stack development**.
 - 🌎 Adventure seeker who loves **traveling and exploring new cultures**.
 - ❤️ Enthusiastic about **open-source projects, collaboration, and making tech more accessible**.
