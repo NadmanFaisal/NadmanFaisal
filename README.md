@@ -23,7 +23,17 @@
 - **Tools:** Git & GitHub 🦾 | Docker 🐳 | JIRA | GitLab | Postman | UML
 
 ---
+<!--
+### 🏆 Notable Achievements
+- 🎖 **Axel Adler Scholarship Recipient** – Awarded for excellence in Software Engineering & Management.
+- 👨‍🏫 **Teaching Assistant** for multiple courses, helping students bridge the gap between academia and industry.
+- 🏅 **Volunteer Educator** at Proyash, assisting children with special needs through innovative learning techniques.
+- 🏗 **Built multiple projects** including:
+  - **EnviroBaby** 🌱 – An IoT-based daycare monitoring system.
+  - **InvMag** 📦 – A full-stack inventory management platform using MEVN stack.
 
+---
+-->
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/nadman-faisal-714848201/)
 - 🔗 [GitHub](https://github.com/NadmanFaisal)
